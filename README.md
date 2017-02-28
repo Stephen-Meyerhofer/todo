@@ -4,8 +4,8 @@
 
 ## Infrastructure
 
-- [ ][kubernetes](https://kubernetes.io)
+- [ ] [kubernetes](https://kubernetes.io)
 
 ## Languages
 
-- [ ][C#](https://www.microsoft.com/net/tutorials/csharp/getting-started)
+- [ ] [C#](https://www.microsoft.com/net/tutorials/csharp/getting-started)
